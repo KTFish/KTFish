@@ -1,4 +1,13 @@
-### Hi there 👋
+Computer Science Student at [University of Warmia and Mazury](https://uwm.edu.pl/) in Olsztyn.
+President and Founder of Artificial Intelligence Society ,,Czarna Magia".
+Active member of [Artificial Intell Society ,,Golem"](https://github.com/KNSI-Golem) at Warsaw Univeristy of Technology.
+Member of Polish ML Community.
+
+### Currently working on...
+- [Czarna Magia Bootcamp](https://github.com/KTFish/czarna-magia-bootcamp) - a introduction to Deep Learning course prepared for members of Artificial Intelligence Society at WMII UWM.
+
+### Projects
+- [Prolog with Python - University Project](https://github.com/KTFish/Prolog-Project)
 
 <!--
 **KTFish/KTFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
