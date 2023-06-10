@@ -4,10 +4,14 @@ Active member of [Artificial Intell Society ,,Golem"](https://github.com/KNSI-Go
 Member of Polish ML Community.
 
 ### Currently working on...
+- [Petrol Prices](https://github.com/KTFish/petrol-prices-object-detection) object detection with YOLO 
 - [Czarna Magia Bootcamp](https://github.com/KTFish/czarna-magia-bootcamp) - a introduction to Deep Learning course prepared for members of Artificial Intelligence Society at WMII UWM.
 
 ### Projects
+- [Classification of tires](https://github.com/KTFish/tire-classification-pytorch/tree/main)
 - [Prolog with Python - University Project](https://github.com/KTFish/Prolog-Project)
+- [MNIST](https://github.com/KTFish/MNIST)
+
 
 <!--
 **KTFish/KTFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
