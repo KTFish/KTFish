@@ -1,6 +1,6 @@
 👨‍🎓 Computer Science Student at [University of Warmia and Mazury](https://uwm.edu.pl/) in Olsztyn.
 
-🧙‍♂️ President and Founder of Artificial Intelligence Society ,,Czarna Magia".
+🧙‍♂️ President and Founder of [Artificial Intelligence Society ,,Czarna Magia"](https://www.facebook.com/people/Ko%C5%82o-Naukowe-Sztucznej-Inteligencji-Czarna-Magia/100093587573194/).
 
 🌇 Active member of [Artificial Intell Society ,,Golem"](https://github.com/KNSI-Golem) at Warsaw Univeristy of Technology.
 
