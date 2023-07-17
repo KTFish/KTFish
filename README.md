@@ -17,6 +17,10 @@
 - [Prolog with Python - University Project](https://github.com/KTFish/Prolog-Project)
 - [MNIST](https://github.com/KTFish/MNIST)
 
+## My favourtie Tech Books
+- [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People]([https://helion.pl/ksiazki/algorytmy-ilustrowany-przewodnik-aditya-bhargava,algipv.htm#format/d](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)) Aditya Bhargava
+- [Python. Instrukcje dla programisty](https://helion.pl/ksiazki/python-instrukcje-dla-programisty-wydanie-ii-eric-matthes,blkpy2.htm#format/e)
+- [Kod Pythona w jednym wierszu. Jak profesjonaliści piszą programy doskonałe](https://helion.pl/ksiazki/kod-pythona-w-jednym-wierszu-jak-profesjonalisci-pisza-programy-doskonale-christian-mayer,kopywi.htm#format/d)
 
 <!--
 **KTFish/KTFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
