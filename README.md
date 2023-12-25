@@ -2,7 +2,7 @@
 
 🧙‍♂️ President and Founder of [Artificial Intelligence Society ,,Czarna Magia"](https://www.facebook.com/people/Ko%C5%82o-Naukowe-Sztucznej-Inteligencji-Czarna-Magia/100093587573194/).
 
-🌇 Active member of [Artificial Intell Society ,,Golem"](https://github.com/KNSI-Golem) at Warsaw Univeristy of Technology.
+🌇 Active member of [Artificial Intelligence Society ,,Golem"](https://github.com/KNSI-Golem) at Warsaw Univeristy of Technology.
 
 🎮 Member of [Polish ML Community](https://discord.gg/4p2WHuHQ).
 
