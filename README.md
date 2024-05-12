@@ -8,6 +8,7 @@
 
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/jan-kara%C5%9B-3b4025229/).
 
+<!--
 ### Projects & Currently working on...
 
 | Project Name                                                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -25,7 +26,6 @@
 - [Python. Instrukcje dla programisty](https://helion.pl/ksiazki/python-instrukcje-dla-programisty-wydanie-ii-eric-matthes,blkpy2.htm#format/e)
 - [Kod Pythona w jednym wierszu. Jak profesjonaliści piszą programy doskonałe](https://helion.pl/ksiazki/kod-pythona-w-jednym-wierszu-jak-profesjonalisci-pisza-programy-doskonale-christian-mayer,kopywi.htm#format/d)
 
-<!--
 **KTFish/KTFish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
