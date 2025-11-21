@@ -1,3 +1,4 @@
+<!--
 👨‍🎓 Computer Science Student at [University of Warmia and Mazury](https://uwm.edu.pl/) in Olsztyn.
 
 🧙‍♂️ President and Founder of [Artificial Intelligence Society ,,Czarna Magia"](https://www.facebook.com/people/Ko%C5%82o-Naukowe-Sztucznej-Inteligencji-Czarna-Magia/100093587573194/).
@@ -5,6 +6,7 @@
 🌇 Active member of [Artificial Intelligence Society ,,Golem"](https://github.com/KNSI-Golem) at Warsaw Univeristy of Technology.
 
 🎮 Member of [Polish ML Community](https://discord.gg/4p2WHuHQ).
+--!>
 
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/jan-kara%C5%9B-3b4025229/).
 
